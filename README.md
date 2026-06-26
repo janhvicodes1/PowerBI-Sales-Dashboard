@@ -44,4 +44,4 @@ The dashboard provides insights into revenue patterns, top-performing products, 
 
 ## Dashboard Preview
 
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard](Screenshots/dashboard.png)
